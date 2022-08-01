@@ -1,0 +1,1 @@
+global.outside = false;

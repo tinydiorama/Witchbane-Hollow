@@ -1,0 +1,10 @@
+ds_map_destroy(items);
+ds_map_destroy(friends);
+ds_map_destroy(quests);
+ds_map_destroy(furniture_outdoor);
+ds_map_destroy(umbrae);
+ds_map_destroy(curios);
+ds_map_destroy(genesia);
+ds_map_destroy(impresiums);
+ds_map_destroy(ferrotypes);
+ds_map_destroy(aconitums);

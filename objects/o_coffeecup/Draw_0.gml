@@ -1,0 +1,2 @@
+// overwrite
+draw_self();
